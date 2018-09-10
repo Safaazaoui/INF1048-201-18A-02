@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 id="id01">Safaa Zaoui</h1>
+
+<script>
+var element = document.getElementById("id01");
+element.innerHTML = "Amelie Dubois";
+</script>
+
+<p>JavaScript changed "Safaa Zaoui" to "Amelie Dubois".</p>
+
+</body>
+</html> 
